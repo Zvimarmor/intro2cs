@@ -66,5 +66,3 @@ def draw_fleet():
 
 if __name__=='__main__':
     draw_fleet()
-
-
